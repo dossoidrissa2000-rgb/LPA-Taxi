@@ -1,0 +1,6 @@
+{
+  "name": "LPA Connect",
+  "description": "Plataforma de taxis y transporte privado de Las Palmas de Gran Canaria. Movilidad que nos conecta.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
